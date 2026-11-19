@@ -1,0 +1,21 @@
+sku,nome_produto,categoria,preco_venda,custo_unitario
+GC001,Café do Centro Superior 1kg,Café em Grãos,99.00,80.57
+GC002,Café do Centro Barista Gourmet Grãos 1kg,Café em Grãos,119.00,95.58
+GC003,Café do Centro Gourmet Brasileiro Grãos 1kg,Café em Grãos,129.00,106.83
+GC004,Café do Centro Barista Prime Grãos 1kg,Café em Grãos,109.00,88.16
+GC005,Café do Centro Cápsulas Origem Cerrado Mineiro 10 un.,Cápsulas,19.90,14.05
+GC006,Café do Centro Cápsulas Origem Mogiana 10 un.,Cápsulas,19.90,13.57
+GC007,Astro Café Bourbon Cápsulas 10 un.,Cápsulas,22.00,16.28
+GC008,Cápsulas Astro Café Pro Orgânico 50 un.,Cápsulas,110.00,81.11
+GC009,Cápsulas Astro Café Pro Equilibrado 50 un.,Cápsulas,110.00,78.28
+GC010,Cápsulas Astro Café Pro Ristretto 50 un.,Cápsulas,110.00,77.26
+GC011,Cápsulas Astro Café Pro Supremo 50 un.,Cápsulas,110.00,79.01
+GC012,Cápsulas Astro Café Pro Descafeinado 50 un.,Cápsulas,110.00,80.62
+GC013,Kit Cápsulas Astro Café Pro Equilibrado 100 un.,Kits de Cápsulas,193.60,111.19
+GC014,Kit Cápsulas Astro Café Pro Ristretto 100 un.,Kits de Cápsulas,193.60,116.62
+GC015,Kit Cápsulas Astro Café Pro Supremo 100 un.,Kits de Cápsulas,193.60,123.22
+GC016,Kit Cápsulas Mogiana 100 un.,Kits de Cápsulas,175.12,98.28
+GC017,Kit Cappuccino Tradicional Café do Centro 5kg,Kits de Bebidas,334.40,196.56
+GC018,Kit Achocolatado Café do Centro 5kg,Kits de Bebidas,334.40,199.75
+GC019,Kit Cappuccino sem Canela Café do Centro 5kg,Kits de Bebidas,334.40,194.54
+GC020,Kit Café com Leite Café do Centro 5kg,Kits de Bebidas,334.40,202.41
